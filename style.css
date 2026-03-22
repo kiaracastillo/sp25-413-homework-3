@@ -1,0 +1,116 @@
+/*
+Theme: Metro theme child
+author :kiara castillo
+description: child metro heme
+
+Template: kcm-metro-theme
+*/
+
+/* child theme */
+
+.site-title a{
+    color:#ff004c;
+}
+
+.header .top-line{
+    height:6px;
+}
+
+.post-single{
+
+    max-width:900px;
+
+ margin:0 auto;
+    background:#fafafa;
+    
+    padding:30px;
+    border:1px solid #ddd;
+}
+
+.titulo-alt{
+
+
+    font-size:48px;
+ line-height:1.1;
+
+    margin-bottom:15px;
+
+
+    text-align:left;
+}
+
+.meta-alt{
+    font-size:13px;
+ color:#666;
+    text-transform:uppercase;
+
+    letter-spacing:1px;
+    
+margin-bottom:25px;
+    border-bottom:1px solid #ddd;
+    padding-bottom:15px;
+}
+
+.contenido-alt{
+ font-size:19px;
+    line-height:1.9;
+}
+
+.page-child{
+    display:grid;
+    grid-template-columns:220px 1fr;
+ gap:40px;
+    align-items:start;
+}
+
+.page-side{
+    border-top:2px solid #ff004c;
+    padding-top:15px;
+}
+
+.page-side h2{
+
+
+    font-size:14px;
+    text-transform:uppercase;
+    margin-bottom:20px;
+}
+
+.page-main{
+    background:#fff;
+ border:1px solid #ddd;
+    padding:30px;
+}
+
+.page-main h1{
+ font-size:42px;
+    margin-bottom:20px;
+}
+
+.note-box{
+    font-size:14px;
+ color:#555;
+    margin-bottom:20px;
+    padding:12px;
+   
+ background:#f7f7f7;
+    border-left:4px solid #ff004c;
+}
+
+.mini-post{
+   
+ margin-bottom:25px;
+    padding-bottom:20px;
+    border-bottom:1px solid #ddd;
+}
+
+.mini-post h3{
+    font-size:18px;
+    margin:0 0 8px 0;
+    line-height:1.3;
+}
+
+.mini-meta{
+    font-size:12px;
+    color:#777;
+}
